@@ -1,0 +1,1 @@
+# factorio-qrcode-2-blueprint
